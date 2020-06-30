@@ -10,7 +10,7 @@ Microsoft Printer: Microsoft Print to PDF\
 Microsoft Printer: Fax\
 Connected Printer: \\\\oldserver\HP LaserJet 4240\
 Connected Printer: \\\\OLDSERVER.DOMAIN.LOCAL\Canon iR-ADV 4535\
-Default Printer: \\\\oldserver\HP LaserJet 4240\
+Default Printer: \\\\oldserver\HP LaserJet 4240
 
 Mapping to new printer: \\\\NEWSERVER.DOMAIN.LOCAL\Front Office HP LaserJet 4240
 
