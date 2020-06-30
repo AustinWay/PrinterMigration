@@ -18,6 +18,6 @@ Removing printer: \\oldserver\HP LaserJet 4240
 
 Mapping to new printer: \\NEWSERVER.DOMAIN.LOCAL\Back Office Canon iR-ADV 4535
 
-Removing printer: \\OLDSERVER.DOMAIN.LOCAL\Canon iR-ADV 4535
+Removing printer: \\OLDSERVER.DOMAIN.LOCAL\Canon iR-ADV 4535\
 Setting default printer to: \\NEWSERVER.DOMAIN.LOCAL\Front Office HP LaserJet 4240
 
