@@ -8,16 +8,16 @@ Microsoft Printer: Send To OneNote 16\
 Microsoft Printer: Microsoft XPS Document Writer\
 Microsoft Printer: Microsoft Print to PDF\
 Microsoft Printer: Fax\
-Connected Printer: \\oldserver\HP LaserJet 4240\
-Connected Printer: \\OLDSERVER.DOMAIN.LOCAL\Canon iR-ADV 4535\
-Default Printer: \\oldserver\HP LaserJet 4240\
+Connected Printer: \\\\oldserver\HP LaserJet 4240\
+Connected Printer: \\\\OLDSERVER.DOMAIN.LOCAL\Canon iR-ADV 4535\
+Default Printer: \\\\oldserver\HP LaserJet 4240\
 
-Mapping to new printer: \\NEWSERVER.DOMAIN.LOCAL\Front Office HP LaserJet 4240
+Mapping to new printer: \\\\NEWSERVER.DOMAIN.LOCAL\Front Office HP LaserJet 4240
 
-Removing printer: \\oldserver\HP LaserJet 4240
+Removing printer: \\\\oldserver\HP LaserJet 4240
 
-Mapping to new printer: \\NEWSERVER.DOMAIN.LOCAL\Back Office Canon iR-ADV 4535
+Mapping to new printer: \\\\NEWSERVER.DOMAIN.LOCAL\Back Office Canon iR-ADV 4535
 
-Removing printer: \\OLDSERVER.DOMAIN.LOCAL\Canon iR-ADV 4535\
-Setting default printer to: \\NEWSERVER.DOMAIN.LOCAL\Front Office HP LaserJet 4240
+Removing printer: \\\\OLDSERVER.DOMAIN.LOCAL\Canon iR-ADV 4535\
+Setting default printer to: \\\\NEWSERVER.DOMAIN.LOCAL\Front Office HP LaserJet 4240
 
